@@ -25,3 +25,9 @@ Maurício Cota
 
 
 Contribuição: Felipe Allevato
+
+
+Link: 
+
+Ideias técnicas com um pouco de filosofia
+https://ideiasesquecidas.com/
